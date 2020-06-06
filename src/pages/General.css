@@ -1,0 +1,24 @@
+.NavBar {
+  background-color: #213c72;
+  max-height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  color: white;
+  font-family: monospace;
+}
+
+.NavLinks {
+  width: 10%;
+  max-height: 10vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  font-family: monospace;
+  list-style: none;
+}
+
+h1 {
+  font-family: monospace;
+}
